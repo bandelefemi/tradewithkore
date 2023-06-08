@@ -8,8 +8,8 @@ const Nav = () => {
         <div>
           <div className=' font-bold flex gap-2'>
             <KoreLogoLight />
-            <p>
-              KORE TRADING
+            <p className=' uppercase tracking-wider'>
+              tradewithkore
             </p> 
           </div>
         </div>
